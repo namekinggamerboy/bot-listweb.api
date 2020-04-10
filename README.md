@@ -1,13 +1,13 @@
 ## Welcome to Bot-listweb APIs
 
 > 1. **Server count post api:-**\n
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRy4UlLBtzwSA3qNAv1Cit3gkxAFcK7IUIFVhBbgf-Wy754QdCA&usqp=CAU" height="50" wight=50">
+![op](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRy4UlLBtzwSA3qNAv1Cit3gkxAFcK7IUIFVhBbgf-Wy754QdCA&usqp=CAU)
 \n
 ``This api use your bot count 
 How to work
 And how to use``
 1. Node.js :
-```javascript
+```
 const BW = require("bot-listweb-api");
 const botlistApi = new BW("Your_auth_ token", client);
 
