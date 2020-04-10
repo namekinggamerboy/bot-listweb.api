@@ -1,7 +1,8 @@
 ## Welcome to Bot-listweb APIs
 
 > 1. **Server count post api:-**
-![server count post](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRy4UlLBtzwSA3qNAv1Cit3gkxAFcK7IUIFVhBbgf-Wy754QdCA&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRy4UlLBtzwSA3qNAv1Cit3gkxAFcK7IUIFVhBbgf-Wy754QdCA&usqp=CAU" height="50" wight=50">
+
 ``This api use your bot count 
 How to work
 And how to use``
